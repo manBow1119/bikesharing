@@ -4,7 +4,7 @@ The purpose of this project was to investigate bikesharing data from New York Ci
 
 ## Results
 * The first visual from our Tableau story provides an overview of some general data trends and insights. Males account for a strong majority of riders, particularly when "Unknown" is not incldude. Trip duration tended to slowly increase birth year increased, with a sharp increase for riders born after 1995. Certain bikes had more concentrated starting locations, and consequently more rides. The map shows that these higher concentrations occurred in tourist hotspots.
-![NYC Story Front Page]("https://github.com/manBow1119/bikesharing/blob/main/NYC_story.png")
+![NYC Story Front Page](https://github.com/manBow1119/bikesharing/blob/main/NYC_story.png)
 
 * This is confirmed when we examine the map closer. The number of rides is much more concentrated in areas that also have highly concentrated starting locations. 
 ![Ride concentration map]("https://github.com/manBow1119/bikesharing/blob/main/Starting_locations.png")
