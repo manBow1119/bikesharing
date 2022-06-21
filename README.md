@@ -1,7 +1,7 @@
 # Bikesharing
 
 ## Project Overview
-The purpose of this project was to investigate bikesharing data from New York City to find trends that might reveal information about business potential of expanding to Des Moines, IA. While most columns in the downloaded CSV file were immediately ready for usage in Tableau, a dataframe manipulation was utilized to change Trip Duration to a usable Datetime format, then exported back to CSV. For all bike analysis images, please visit my [Table Page](https://public.tableau.com/app/profile/bowman.o.brannon.iii#!/?newProfile=&activeTab=0).
+The purpose of this project was to investigate bikesharing data from New York City to find trends that might reveal information about business potential of expanding to Des Moines, IA. While most columns in the downloaded CSV file were immediately ready for usage in Tableau, a dataframe manipulation was utilized to change Trip Duration to a usable Datetime format, then exported back to CSV. For all bike analysis images, please visit my [Tableau Page](https://public.tableau.com/app/profile/bowman.o.brannon.iii#!/?newProfile=&activeTab=0).
 
 ## Results
 * The first visual from our Tableau story provides an overview of some general data trends and insights. Males account for a strong majority of riders, particularly when "Unknown" is not incldude. Trip duration tended to slowly increase birth year increased, with a sharp increase for riders born after 1995. Certain bikes had more concentrated starting locations, and consequently more rides. The map shows that these higher concentrations occurred in tourist hotspots.
