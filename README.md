@@ -4,7 +4,7 @@
 The purpose of this project was to investigate bikesharing data from New York City to find trends that might reveal information about business potential of expanding to Des Moines, IA. While most columns in the downloaded CSV file were immediately ready for usage in Tableau, a dataframe manipulation was utilized to change Trip Duration to a usable Datetime format, then exported back to CSV. For all bike analysis images, please visit my [Tableau Page](https://public.tableau.com/app/profile/bowman.o.brannon.iii#!/?newProfile=&activeTab=0).
 
 ## Results
-* The first visual from our Tableau story provides an overview of some general data trends and insights. Males account for a strong majority of riders, particularly when "Unknown" is not incldude. Trip duration tended to slowly increase birth year increased, with a sharp increase for riders born after 1995. Certain bikes had more concentrated starting locations, and consequently more rides. The map shows that these higher concentrations occurred in tourist hotspots.
+* The first visual from our Tableau story provides an overview of some general data trends and insights. Males account for a strong majority of riders, particularly when "Unknown" is not included. Trip duration tended to slowly increase as birth year increased, with a sharp increase for riders born after 1995. Certain bikes had more concentrated starting locations, and consequently more rides. The map shows that these higher concentrations occurred in tourist hotspots.
 * ![NYC Story Front Page](https://github.com/manBow1119/bikesharing/blob/main/NYC_story.png)
 
 * This is confirmed when we examine the map closer. The number of rides is much more concentrated in areas that also have highly concentrated starting locations. 
